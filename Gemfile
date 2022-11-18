@@ -5,6 +5,8 @@ ruby "3.1.2"
 gem "simple_form", github: "heartcombo/simple_form"
 gem "sassc-rails"
 
+gem "cloudinary"
+
 gem "dotenv-rails", groups: [:development, :test]
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
